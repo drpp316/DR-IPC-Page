@@ -205,6 +205,62 @@ body {
   margin-right: 0.5rem;
 }
 
+.publication-affiliations {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.pipeline-section {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+
+.pipeline-figure {
+  margin: 0;
+}
+
+.pipeline-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.pipeline-figure figcaption {
+  max-width: 980px;
+  margin: 1rem auto 0;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.65;
+  text-align: left;
+}
+
+.experiment-video-section {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+
+.experiment-video-section.is-light-section {
+  background: var(--background-secondary);
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.experiment-video-section .title {
+  margin-bottom: 1.75rem;
+}
+
+.experiment-video-section video {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 78vh;
+  margin: 0 auto;
+  background: #000;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+}
+
 .publication-banner img {
   border-radius: var(--border-radius-lg);
   box-shadow: var(--shadow-lg);
@@ -748,6 +804,4 @@ a:focus {
     box-shadow: none !important;
   }
 }
-
-
 
