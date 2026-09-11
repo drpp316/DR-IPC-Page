@@ -24,7 +24,7 @@ Peng Liu<sup>1</sup>, Jingyan Wang<sup>1</sup>, Qipeng Ye<sup>2</sup>, Wen Li<su
 ## Experimental Demonstrations
 
 
-<img src="image/README/1789140101832.png" alt="DR-IPC cover" width="70%">
+<img src="image/README/1789140101832.png" alt="DR-IPC cover" width="100%">
 
 The project page contains demonstrations of:
 
