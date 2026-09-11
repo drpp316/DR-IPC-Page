@@ -2,6 +2,8 @@
 
 Official project page for the paper **“DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation.”**
 
+![1789139573962](image/README/1789139573962.png)
+
 ## Authors
 
 Peng Liu<sup>1</sup>, Jingyan Wang<sup>1</sup>, Qipeng Ye<sup>2</sup>, Wen Li<sup>1</sup>, Jinya Su<sup>1,3</sup>, Zuo Wang<sup>1</sup>, Shihua Li<sup>1,3</sup>, and Yunda Yan<sup>4</sup>
@@ -14,11 +16,13 @@ Peng Liu<sup>1</sup>, Jingyan Wang<sup>1</sup>, Qipeng Ye<sup>2</sup>, Wen Li<su
 ## Links
 
 - **Project page:** https://drpp316.github.io/DR-IPC-Page/
-- **Paper:** [DR_IPC.pdf](static/pdfs/DR_IPC.pdf)
+- **Paper:** [DR_IPC.pdf](static/pdfs/DR_IPC.pdf) — **Coming soon**
 - **Code:** [github.com/drpp316/DR_IPC](https://github.com/drpp316/DR_IPC) — **Coming soon**
-- **Video:** Bilibili link coming soon
+- **Video:** Bilibili link  — **Coming soon**
 
 ## Experimental Demonstrations
+
+![1789140101832](image/README/1789140101832.png)
 
 The project page contains demonstrations of:
 
