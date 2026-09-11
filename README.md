@@ -16,7 +16,7 @@ Peng Liu<sup>1</sup>, Jingyan Wang<sup>1</sup>, Qipeng Ye<sup>2</sup>, Wen Li<su
 
 ## Links
 
-- **Project page:** https://drpp316.github.io/DR-IPC-Page/
+- **Project page with vedio:** https://drpp316.github.io/DR-IPC-Page/
 - **Paper:** [DR_IPC.pdf](static/pdfs/DR_IPC.pdf) — **Coming soon**
 - **Code:** [github.com/drpp316/DR_IPC](https://github.com/drpp316/DR_IPC) — **Coming soon**
 - **Video:** Bilibili link  — **Coming soon**
