@@ -2,7 +2,8 @@
 
 Official project page for the paper **“DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation.”**
 
-![1789139573962](image/README/1789139573962.png)
+<img src="image/README/1789139573962.png" alt="DR-IPC cover" width="70%">
+
 
 ## Authors
 
