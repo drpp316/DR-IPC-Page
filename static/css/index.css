@@ -82,6 +82,14 @@ body {
     margin: 8px 4px;
 }
 
+.publication-links-note {
+  max-width: 760px;
+  margin: 0.85rem auto 0;
+  color: var(--text-secondary);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
 .dnerf {
   font-variant: small-caps;
 }
