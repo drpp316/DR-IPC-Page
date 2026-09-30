@@ -19,7 +19,8 @@ Peng Liu<sup>1</sup>, Jingyan Wang<sup>1</sup>, Qipeng Ye<sup>2</sup>, Wen Li<su
 - **Project page with vedio:** https://drpp316.github.io/DR-IPC-Page/
 - **Paper:** [DR_IPC.pdf](static/pdfs/DR_IPC.pdf) — **Coming soon**
 - **Code:** [github.com/drpp316/DR_IPC](https://github.com/drpp316/DR_IPC) — **Coming soon**
-- **Video:** Bilibili link  — **Coming soon**
+- **YouTube:** [Watch the DR-IPC video](https://youtu.be/_yvMu63Jr6Q)
+- **Bilibili:** [Watch the DR-IPC video](https://www.bilibili.com/video/BV1HaaZ6JEhW)
 
 ## Experimental Demonstrations
 
